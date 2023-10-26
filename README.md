@@ -22,11 +22,10 @@ Here are some ideas to get you started:
 - 👨‍💻 Former - Frontend Developer Intern at Miracle Software
 - 💻 Development Head at Research & Development Cell in DIET College
 - 🏆 Participated in Smart India Hackathon 2019
-- 📫 How to reach me [gbrahmareddy99@gmail.com]
+- 📫 How to reach me <strong><a href="mailto:gbrahmareddy99@gmail.com">gbrahmareddy99@gmail.com</a></strong>
 - ⚡ Fun fact: Iam great movie lover and big foodie..
 
 <a href="https://sunny-gecko-230015.netlify.app/" rel="nofollow">My Portfolio</a>
-[https://sunny-gecko-230015.netlify.app/]("My Portfolio")
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
