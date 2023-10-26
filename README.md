@@ -25,6 +25,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me [gbrahmareddy99@gmail.com]
 - ⚡ Fun fact: Iam great movie lover and big foodie..
 
+<a href="https://sunny-gecko-230015.netlify.app/" rel="nofollow">My Portfolio</a>
 [https://sunny-gecko-230015.netlify.app/]("My Portfolio")
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
