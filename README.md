@@ -28,8 +28,8 @@ Here are some ideas to get you started:
 <a href="https://sunny-gecko-230015.netlify.app/" rel="nofollow">My Portfolio</a>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/brahma-reddy-79060b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="raunak173" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/gbrahmareddy99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="raunak_agarwal_" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/brahma-reddy-79060b211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gbr" height="30" width="40" /></a>
+  <a href="https://www.instagram.com/gbrahmareddy99/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="gbr" height="30" width="40" /></a>
   <a href="https://twitter.com/i/flow/login?redirect_after_login=%2FBrahmareddy_GBR" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" alt="gbr" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/gbrahmareddy99" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="gbr" height="30" width="40" /></a>
 </p>
