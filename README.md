@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+-->
 
 ###
 - 🌱 I’m currently studying Masters in Data Science
