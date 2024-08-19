@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 
 ###
 - 🌱 I’m currently studying Masters in Data Science
-- 👨‍💻 Former - Software Developer at Tata Consultancy Services
-- 👨‍💻 Former - Frontend Developer Intern at Miracle Software
+- 👨‍💻 Former - Data Developer at Tata Consultancy Services
 - 💻 Development Head at Research & Development Cell in DIET College
 - 🏆 Participated in Smart India Hackathon 2019
 - 📫 How to reach me <strong><a href="mailto:gbrahmareddy99@gmail.com">gbrahmareddy99@gmail.com</a></strong>
